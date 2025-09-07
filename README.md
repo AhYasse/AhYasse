@@ -84,7 +84,7 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with hands-on ex
       <b>jQuery</b>
     </td>
       <td align="center">
-      <img src="  https://knowledge.hubspot.com/hs-fs/hubfs/content-management-system-cms-2-20241120-3519263.webp?width=650&height=394&name=content-management-system-cms-2-20241120-3519263.webp" width="40" height="40" alt="CMS"/>
+      <img src="https://knowledge.hubspot.com/hs-fs/hubfs/content-management-system-cms-2-20241120-3519263.webp?width=650&height=394&name=content-management-system-cms-2-20241120-3519263.jpg" width="40" height="40" alt="CMS"/>
       <br/>
       <b>CMS</b>
     </td>
