@@ -83,10 +83,6 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with hands-on ex
       <br/>
       <b>jQuery</b>
     </td>
-      <td align="center">
-      <img src="https://knowledge.hubspot.com/hs-fs/hubfs/content-management-system-cms-2-20241120-3519263.webp?width=650&height=394&name=content-management-system-cms-2-20241120-3519263.jpg" width="40" height="40" alt="CMS"/>
-      <br/>
-      <b>CMS</b>
     </td>
   
   </tr>
@@ -138,6 +134,10 @@ Welcome to my GitHub! I'm a passionate **Full-Stack Developer** with hands-on ex
       <br/>
       <b>Packet Tracer</b>
     </td>
+     <td align="center">
+      <img src="https://knowledge.hubspot.com/hs-fs/hubfs/content-management-system-cms-2-20241120-3519263.webp?width=650&height=394&name=content-management-system-cms-2-20241120-3519263.jpg" width="40" height="40" alt="CMS"/>
+      <br/>
+      <b>CMS</b>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
       <br/>
